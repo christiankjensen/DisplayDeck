@@ -1,5 +1,5 @@
 from pyyoutube import Api
-api = Api(api_key='AIzaSyALdPIgNKMnZPZcB8bLuuZKyp_8WA_0Y_A')
+api = Api(api_key='')
 
 CHANNEL_ID = 'UCOSD5Dvu_-cCOpGQ7PnBINQ'
 
